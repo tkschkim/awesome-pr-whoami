@@ -23,3 +23,4 @@
 | ---- | ----------------------------------------------- | ----------------- | ---------------------------------------------------- |
 | 1    | [junngo](https://github.com/junngo)             | fast api, rust    | 사람들에게 도움이 되는 서비스를 만들거에요.          |
 | 2    | [YangHyeonBin](https://github.com/YangHyeonBin) | JavaScript, React | 깃허브로 능숙하게 협업할 줄 아는 개발자가 될 거예요! |
+| 3    | [yunseong3736](https://github.com/yunseong3736) | Django, React, CSE| 강의 잘 들었습니다. - 밸류어블피플 CTO             |
