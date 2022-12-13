@@ -26,3 +26,4 @@
 | 3    | [yunseong3736](https://github.com/yunseong3736) | Django, React, CSE| 강의 잘 들었습니다. - 밸류어블피플 CTO             |
 | 4    | [eomgy](https://github.com/eomgy)               | spring, HCI, k8s  | 강의 잘 들었습니다.                               |
 | 5    | [aroong](https://github.com/Aroong)             | Spring, Java      | 깃 강의 잘 들었습니다!                            |
+| 6    | [kje4403p](https://github.com/kje4403p)         | Java,sql          | 훌륭한 강의                                          |
