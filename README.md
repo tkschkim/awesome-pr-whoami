@@ -28,3 +28,4 @@
 | 5    | [aroong](https://github.com/Aroong)             | Spring, Java       | 깃 강의 잘 들었습니다!                               |
 | 6    | [kje4403p](https://github.com/kje4403p)         | Java,sql           | 훌륭한 강의                                          |
 | 7    | [Leecw0610](https://github.com/Leecw0610)       | Python, AI         | 강의 감사합니다.                                     |
+| 8    | [AvocadoSmasher](https://github.com/avocadosmasher)| Atlassian Product Provisioning| 저에게 도움이 되고있군요 목적을 이뤘네요.  |
