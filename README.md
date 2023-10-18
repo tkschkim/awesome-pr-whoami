@@ -36,3 +36,4 @@
 | 13   | [gucciforce](https://github.com/gucciforce)         | java                           | 감사합니다 잘 배웠습니다.                            |
 | 14   | [ssu](https://github.com/ssu)                       | Spring                         | 좋은 강의 감사합니다.                                |
 | 15   | [yougod](https://github.com/yousincha)              | React, Node.js                 | 덕분에 잘 배웠습니다! 감사합니다.                    |
+| 16   | [zoee2](https://github.com/zoee2     )              | JavaScript, React              | 좋은 강의 감사합니다!!                               |
