@@ -42,3 +42,4 @@
 | 19   | [yeochan-UL](https://github.com/yeochan-UL)         | Javascript, vue2, vue3         | 기획, 디자인, 개발까지 전부 잘하는 개발자가 되고싶어요 |
 | 20   | [autolak](https://github.com/autolak)               | python, LLM                    | 좋은 강의 감사합니다 |
 | 21   | [leechimins](https://github.com/leechimins)         | C, Python, Game Programming    | 깃허브 너무 어렵네요... 열심히 연습해야겠어요!!      |
+| 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
